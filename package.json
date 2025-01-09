@@ -1,0 +1,12 @@
+{
+  "name": "mmr",
+  "version": "1.0.0",
+  "description": "Desafio da  DIO para criar uma Calculadora de Partidas Rankeadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
